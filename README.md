@@ -24,8 +24,8 @@ This project represents an advanced exploration into SwiftUI and Swift, featurin
 
 </td>
 <td>
-  
-![Moonshot](https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13)
+
+<img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="600">
 
 </td>
 </tr>
