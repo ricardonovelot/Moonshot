@@ -1,4 +1,4 @@
-# Moonshot App - SwiftUI Day 39 Challenge
+# Moonshot App
 
 <table>
 <tr>
@@ -6,9 +6,7 @@
 
 ## About the Project
 
-The Moonshot app, crafted as a milestone for Day 39 of the "Hacking with Swift" course.
-
-This project dives into space history, using scroll views, Codable for data handling, and dynamic layouts to present information on space missions and astronauts in an engaging way.
+The Moonshot app dives into space history, showcasing information on space missions and astronauts in an engaging way
 
 ### Features
 
@@ -19,7 +17,6 @@ This project dives into space history, using scroll views, Codable for data hand
 
 ### Learning Highlights
 
-This project represents an advanced exploration into SwiftUI and Swift, featuring:
 - Implementation of generics and constraints to enhance code flexibility and reusability.
 - Advanced state management to toggle between different view layouts.
 - Custom decoding strategies to handle complex hierarchical data structures.
