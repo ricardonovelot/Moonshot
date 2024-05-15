@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 ## About the Project
 
@@ -24,7 +24,7 @@ The Moonshot app dives into space history, showcasing information on space missi
 </td>
 <td>
 
-<img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="350">
+<img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="350" valign="center">
 
 </td>
 </tr>
