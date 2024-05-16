@@ -19,7 +19,7 @@ struct AstronautView: View {
                     .clipShape(.rect(cornerRadius: 10))
                     .shadow(radius: 5)
                     .padding([.leading,.trailing])
-                
+                    .accessibilityHidden(true)
                 Text(astronaut.description)
                     .padding()
             }

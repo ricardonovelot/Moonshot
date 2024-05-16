@@ -29,10 +29,11 @@ struct MissionView: View {
                         width * 0.6
                     }
                     .padding()
+                    .accessibilityHidden(true)
                 
                 Text(mission.formattedLaunchDate)
                     .font(.title).bold()
-                
+                    .accessibilityHidden(true)
                 
                 VStack(alignment: .leading){
                     
